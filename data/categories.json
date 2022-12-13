@@ -1,0 +1,26 @@
+[
+    {    "id":1,
+        "name": "Breking News"
+    },
+    {    "id":2,
+        "name": "Regular news"
+    },
+    {    "id":3,
+        "name": "International news"
+    },
+    {    "id":4,
+        "name": "Sport"
+    },
+    {    "id":5,
+        "name": "Entaintenment"
+    },
+    {    "id":6,
+        "name": "Culture"
+    },
+    {    "id":7,
+        "name": "Arts"
+    },
+    {    "id":8,
+        "name": "All News"
+    }
+]
